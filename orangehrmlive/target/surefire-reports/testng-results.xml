@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-02T17:28:06Z" name="Orange HRM Live Application Test Automation Test Suite" finished-at="2023-12-02T17:30:50Z" duration-ms="163786">
+    <groups>
+    </groups>
+    <test started-at="2023-12-02T17:28:06Z" name="Free CRM App Test Cases" finished-at="2023-12-02T17:30:50Z" duration-ms="163786">
+      <class name="com.orangehrmlive.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrmlive.LoginPageTest@45f45fa1]" started-at="2023-12-02T17:30:28Z" name="setUp" finished-at="2023-12-02T17:30:45Z" duration-ms="17105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:1, instance:com.orangehrmlive.LoginPageTest@45f45fa1]" started-at="2023-12-02T17:30:45Z" name="loginTest" finished-at="2023-12-02T17:30:50Z" duration-ms="4494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrmlive.LoginPageTest@45f45fa1]" started-at="2023-12-02T17:30:50Z" name="tearDown" finished-at="2023-12-02T17:30:50Z" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrmlive.LoginPageTest -->
+      <class name="com.orangehrmlive.DashboardPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrmlive.DashboardPageTest@4c6e276e]" started-at="2023-12-02T17:28:06Z" name="setUp" finished-at="2023-12-02T17:28:25Z" duration-ms="18694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoutTest()[pri:0, instance:com.orangehrmlive.DashboardPageTest@4c6e276e]" started-at="2023-12-02T17:28:25Z" name="logoutTest" finished-at="2023-12-02T17:28:28Z" duration-ms="3049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrmlive.DashboardPageTest@4c6e276e]" started-at="2023-12-02T17:28:28Z" name="tearDown" finished-at="2023-12-02T17:28:28Z" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrmlive.DashboardPageTest -->
+      <class name="com.orangehrmlive.MyinfoPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrmlive.MyinfoPageTest@534df152]" started-at="2023-12-02T17:28:28Z" name="setUp" finished-at="2023-12-02T17:29:03Z" duration-ms="34641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="myInfoLinkTest()[pri:0, instance:com.orangehrmlive.MyinfoPageTest@534df152]" started-at="2023-12-02T17:29:03Z" name="myInfoLinkTest" finished-at="2023-12-02T17:30:27Z" duration-ms="83940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myInfoLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrmlive.MyinfoPageTest@534df152]" started-at="2023-12-02T17:30:27Z" name="tearDown" finished-at="2023-12-02T17:30:28Z" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrmlive.MyinfoPageTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- Orange HRM Live Application Test Automation Test Suite -->
+</testng-results>
